@@ -1,0 +1,19 @@
+{
+  "labels":[
+    "GREETING",
+    "MENU",
+    "ORDER_HISTORY",
+    "LOCATION",
+    "ORDER",
+    "REORDER",
+    "CATERING",
+    "HOURS",
+    "PROMOTIONS",
+    "REWARDS",
+    "THANKS",
+    "GOODBYE",
+    "OUT_OF_SCOPE"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}

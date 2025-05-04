@@ -1,0 +1,7 @@
+user_id,order_id,items,location,date
+user1,1001,"3-Piece Fried Chicken Box, Mac & Cheese, Lemonade","Baton Rouge, LA - Sherwood Forest",2024-04-01
+user1,1002,"Daily Baked Fish, Caesar Salad","Jackson, MS - I-55 North",2024-04-02
+user3,1003,"Banana Pudding, Fried Chicken - Breast & Wing","Memphis, TN - Germantown",2024-04-03
+user1,1004,"Garden Salad, Soft Roll","Baton Rouge, LA - Sherwood Forest",2024-04-08
+user2,1005,"Red Beans and Rice, Cornbread","Jackson, MS - I-55 North",2024-04-10
+user4,1006,"Chopped Beef - Large, Spring Salad","Atlanta, GA - Greenbriar Shopping Center",2024-04-09
